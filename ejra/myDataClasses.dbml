@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ejraDB" Class="myDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=GHADIRIAN-PC\MGH;Initial Catalog=ejraDB;Integrated Security=True" SettingsObjectName="ejra.Properties.Settings" SettingsPropertyName="ejraDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.iegr" Member="iegrs">
+    <Type Name="iegr">
+      <Column Name="RADIF" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="KLAS" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="FNAME" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="ADDRESS" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="CONAME" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="SAL" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="SAL2" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="MABL" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DEGR1" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ARSAL" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="DEGR2" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DEGR3" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="KODVAZ" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="FATHER" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NO_SHEN" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="NO_SABT" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="HOZE" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SW" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.userTbl" Member="userTbls">
+    <Type Name="userTbl">
+      <Column Name="username" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="UserGuid" Type="System.Guid" DbType="UniqueIdentifier" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.reject" Member="rejects">
+    <Type Name="reject">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TARIK" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="SHOBE" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="SAHEB" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="MABLAG" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="SAL" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FAMIL" Type="System.String" DbType="NVarChar(40)" CanBeNull="true" />
+      <Column Name="ADDRESS_1" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="comments" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="comments2" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="SHAHR" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="HOZE" Type="System.Decimal" DbType="Decimal(6,0)" CanBeNull="true" />
+      <Column Name="MOMAYEZ" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="NOW_M" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="PARVANDE" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ASL_MAL" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SHARDARY" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="OTAG" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="JARIME" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SAYER" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="RADIF" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SHOMARE" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="TARIK_2" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="SH_CHEK" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HESAB_J" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="MAHAL" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="MABLAG_BAN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TARTIB_BAN" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TARIK_3" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="CONTROL" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SERI" Type="System.String" DbType="NVarChar(3)" CanBeNull="true" />
+      <Column Name="CODE" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="SHOBE2" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="REJECT" Member="REJECT1" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DES_REJECT" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DE2_REJECT" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DE3_REJECT" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="DAT_REJECT" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DATE_ERSAL" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DATE_VOSOL" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ERSAL" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DATE_ACT" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="OPRATOR" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="PAS" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="TAG" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="COP" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AMAL" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="TAG2" Type="System.String" DbType="NVarChar(2)" CanBeNull="true" />
+      <Column Name="NO_SHEN" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="NO_SABT" Type="System.String" DbType="VarChar(12)" CanBeNull="true" />
+      <Column Name="HOG" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="FATHER" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="status" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.FilesTaxPayer" Member="FilesTaxPayers">
+    <Type Name="FilesTaxPayer">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KLAS" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="FNAME" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="ADDRESS" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="CONAME" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="SAL" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="SAL2" Type="System.String" DbType="Char(4)" CanBeNull="true" />
+      <Column Name="MABL" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="DEGR1" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="ARSAL" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="DEGR2" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DEGR3" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="KODVAZ" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="FATHER" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="NO_SHEN" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="NO_SABT" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="HOZE" Type="System.Decimal" DbType="Decimal(10,0)" CanBeNull="true" />
+      <Column Name="pdegr1" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

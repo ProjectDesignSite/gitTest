@@ -1,0 +1,63 @@
+c:\users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\bin\Debug\ejra.exe.config
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.Properties.Resources.resources
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.csproj.GenerateResource.Cache
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\bin\Debug\ejra.exe
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\bin\Debug\ejra.pdb
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.exe
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Win.dll
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Win.xml
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Utils.xml
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra\ejra\bin\Debug\FarsiLibrary.Resources.xml
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.Form3.resources
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.csprojResolveAssemblyReference.cache
+C:\Users\ghadirian\documents\visual studio 2013\Projects\ejra\ejra\obj\Debug\ejra.FrmCheque.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\bin\Debug\ejra.exe.config
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\bin\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\bin\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.csprojResolveAssemblyReference.cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.Properties.Resources.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.csproj.GenerateResource.Cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.frmLogin.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.MainFrm.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.UCTaxFiles.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.UCCheque.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.frmShowMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\ejra - Copy (2)\ejra\obj\Debug\ejra.FrmMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\bin\Debug\ejra.exe.config
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\bin\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\bin\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.FrmMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.frmShowMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.MainFrm.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.frmLogin.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.UCTaxFiles.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.UCCheque.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.Properties.Resources.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.csproj.GenerateResource.Cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.csprojResolveAssemblyReference.cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.frmBubble.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-15\ejra - Copy (2)\ejra\obj\Debug\ejra.myButtonObject.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\bin\Debug\ejra.exe.config
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\bin\Debug\ejra.exe
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\bin\Debug\ejra.pdb
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.csprojResolveAssemblyReference.cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.frmBubble.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.FrmMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.frmShowMessage.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.MainFrm.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.frmLogin.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.myButtonObject.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.UCTaxFiles.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.UCCheque.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.Properties.Resources.resources
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.csproj.GenerateResource.Cache
+C:\Users\ghadirian\Documents\Visual Studio 2013\Projects\1395-03-20\ejra - Copy (2)\ejra\obj\Debug\ejra.UserControl1.resources
